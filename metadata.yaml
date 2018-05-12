@@ -1,0 +1,43 @@
+_repo: Born-to-WanderA-Boy-s-Book-of-Nomadic-Adventures_37252
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cheshire, William
+    alias: Cheshire, W. (William)
+    gutenberg_agent_id: '38727'
+    url: http://www.gutenberg.org/2009/agents/38727
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, William Gordon
+    - Stables, W. Gordon (William Gordon)
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_issued: '2011-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Sailing -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Nomads -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+title: 'Born to Wander: A Boy''s Book of Nomadic Adventures'
+url: http://www.gutenberg.org/ebooks/37252
